@@ -3,4 +3,4 @@ published: true
 title: About
 layout: post
 ---
-asd
+Quaydar is a college football fan. He doesn't care about the NFL. He also should have failed the only real statistics class he took. In this blog he'll attempt to use his complete lack of knowledge to add irrelevant information for CFB fans.
