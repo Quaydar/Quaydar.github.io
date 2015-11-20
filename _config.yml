@@ -1,10 +1,10 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://Quaydar.github.io
-title: Awesome
+url: http://www.quaydar.com
+title: Quaystats
 email: q@quaydar.com
 author: Quaydar
-description: My awesome new site
+description: Stats for college football
 paginate: 5
 google_analytics: 
