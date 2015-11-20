@@ -2,9 +2,9 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://www.quaydar.com
-title: Quaystats
+title: Quaydar
 email: q@quaydar.com
 author: Quaydar
-description: Stats for college football
+description: Quaydar's cfb stats
 paginate: 5
 google_analytics: 
